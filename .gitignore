@@ -1,0 +1,11 @@
+# Bun
+bun.lockb
+
+# NPM
+package-lock.json
+
+# Node
+node_modules
+
+# dist
+dist
